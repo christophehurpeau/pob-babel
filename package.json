@@ -25,7 +25,7 @@
     "babel-plugin-typecheck": "^3.9.0",
     "chokidar": "^1.6.0",
     "fs-readdir-recursive": "^1.0.0",
-    "glob": "^7.0.5",
+    "glob": "^7.0.6",
     "js-yaml": "^3.6.1",
     "lock": "^0.1.2",
     "nightingale": "^4.6.0",

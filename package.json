@@ -26,7 +26,7 @@
     "babel-preset-flow-tcomb-forked": "^1.3.3",
     "chokidar": "^1.6.0",
     "fs-readdir-recursive": "^1.0.0",
-    "glob": "^7.0.6",
+    "glob": "^7.1.0",
     "js-yaml": "^3.6.1",
     "lock": "^0.1.3",
     "nightingale": "^4.7.1",

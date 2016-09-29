@@ -42,6 +42,6 @@
     "slash": "^1.0.0"
   },
   "devDependencies": {
-    "tcomb-forked": "^3.3.0"
+    "tcomb-forked": "^3.4.0"
   }
 }

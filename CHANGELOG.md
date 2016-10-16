@@ -1,3 +1,7 @@
+### v10.0.1
+
+- [`ac1c536`](https://github.com/christophehurpeau/pob-babel/commit/ac1c53624bad6d002500d2b28b2617f4d1cc517d) dead code elimination: keepFnName (Christophe Hurpeau)
+
 ### v10.0.0
 
 - [`bc2d9d3`](https://github.com/christophehurpeau/pob-babel/commit/bc2d9d3de5527a8ffb1528571a30ebee1109bd73) update depepdencies and use babel-plugin-minify-dead-code-elimination (Christophe Hurpeau)

@@ -1,3 +1,7 @@
+### v10.0.0
+
+- [`bc2d9d3`](https://github.com/christophehurpeau/pob-babel/commit/bc2d9d3de5527a8ffb1528571a30ebee1109bd73) update depepdencies and use babel-plugin-minify-dead-code-elimination (Christophe Hurpeau)
+
 ### v9.0.0
 
 - [`7256e79`](https://github.com/christophehurpeau/pob-babel/commit/7256e79e2961aed35574953efd5745afacd8c0ed) jsdoc add flow-strip-types (Christophe Hurpeau)

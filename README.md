@@ -1,5 +1,7 @@
 # pob-babel [![NPM version][npm-image]][npm-url]
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7b2985c85ad143788b7f81af8f98542c)](https://www.codacy.com/app/christophehurpeau/pob-babel?utm_source=github.com&utm_medium=referral&utm_content=christophehurpeau/pob-babel&utm_campaign=badger)
+
 Build and watch with babel
 
 [![Dependency ci Status][dependencyci-image]][dependencyci-url]

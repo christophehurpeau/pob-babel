@@ -1,5 +1,7 @@
 # pob-babel [![NPM version][npm-image]][npm-url]
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/christophehurpeau/pob-babel.svg)](https://greenkeeper.io/)
+
 Build and watch with babel
 
 [![Dependency ci Status][dependencyci-image]][dependencyci-url]

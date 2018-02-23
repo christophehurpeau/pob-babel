@@ -31,7 +31,7 @@
     "babel-plugin-flow-runtime": "^0.15.0",
     "babel-preset-optimizations": "^1.2.1",
     "babel-preset-pob": "^0.5.0",
-    "babel-preset-pob-env": "^0.1.0",
+    "babel-preset-pob-env": "^0.2.0",
     "babel-preset-pob-stages": "^0.2.4",
     "rollup": "^0.56.1",
     "rollup-plugin-babel": "^3.0.3",
